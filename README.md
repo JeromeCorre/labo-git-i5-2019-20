@@ -1,0 +1,1 @@
+A small git repo used to demonstrate Git and GitPub functionalities to a class, during a lab session
